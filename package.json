@@ -1,5 +1,5 @@
 {
-  "name": "@stephen-dalessandri/streak-counter",
+  "name": "@seeker64/streak-counter",
   "version": "0.0.1",
   "description": "This is a basic streak counter - inspired by DuoLingo - written in TypeScript and meant for the browser (uses `localStorage`).",
   "scripts": {

@@ -1,11 +1,11 @@
-# `@stephen-dalessandri/streak-counter` - a basic streak counter
+# `@seeker64/streak-counter` - a basic streak counter
 
 This is a basic streak counter - inspired by DuoLingo - written in TypeScript and meant for the browser (uses `localStorage`).
 
 ## Install
 
 ```shell
-npm install @stephen-dalessandri/streak-counter
+npm install @seeker64/streak-counter
 ```
 
 ## Usage
