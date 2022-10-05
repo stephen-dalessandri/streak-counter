@@ -10,8 +10,10 @@ npm install @seeker64/streak-counter
 
 ## Usage
 
+[![Edit streak-counter (ts-course) (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/streak-counter-ts-course-forked-luryty?fontsize=14&hidenavigation=1&theme=dark)
+
 ```JavaScript
-import {streakCounter} from '@stephen-dalessandri/streak-counter'
+import {streakCounter} from '@seeker64/streak-counter'
 
 const today = new Date();
 const streak = streakCounter(localStorage, today);
